@@ -12,10 +12,10 @@
   "miniprogram": "dist/",
   "author": "wechat-miniprogram",
   "license": "MIT",
-  "homepage": "https://github.com/wechat-miniprogram/threejs-miniprogram",
+  "homepage": "https://github.com/pampanelson/threejs-miniprogram",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wechat-miniprogram/threejs-miniprogram"
+    "url": "https://github.com/pampanelson/threejs-miniprogram"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
